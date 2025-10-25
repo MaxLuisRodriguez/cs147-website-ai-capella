@@ -10,30 +10,30 @@ interface TeamMember {
 
 const teamMembers: TeamMember[] = [
   {
-    name: 'Max Rodriguez',
-    role: 'Project Lead & AI Architect',
-    bio: 'Passionate about creating AI systems that enhance human creativity and musical expression.',
+    name: 'Max R.',
+    role: 'Class of \'26 • Symbolic Systems',
+    bio: 'Co-head designer, Figma engineer, video director, brainstorm lead. Passionate about creating AI systems that build confident a-cappella singers through live voice AI technology.',
     github: '#',
     initial: 'M'
   },
   {
-    name: 'Marcus Lintott',
-    role: 'UX Designer & Researcher',
-    bio: 'Focused on understanding user needs and creating intuitive, accessible music interfaces.',
+    name: 'Marcus L.',
+    role: 'Class of \'25 • CS Cyber Security Coterm',
+    bio: 'Co-head designer, transcriber, co-tech lead. Focused on understanding a-cappella singer needs and creating intuitive interfaces for 24/7 accessible vocal coaching.',
     github: '#',
     initial: 'M'
   },
   {
-    name: 'Vaishnav Garodia',
-    role: 'Frontend Developer',
-    bio: 'Specializing in React development and creating beautiful, responsive user interfaces.',
+    name: 'Vaishnav G.',
+    role: 'Class of \'25 • CS HCI Coterm',
+    bio: 'Co-tech lead, task planner. Specializing in React development and creating beautiful, responsive interfaces for real-time AI vocal feedback.',
     github: '#',
     initial: 'V'
   },
   {
-    name: 'Bryant Mendez',
-    role: 'Backend Developer & Audio Engineer',
-    bio: 'Expert in audio processing, machine learning, and building scalable music technology systems.',
+    name: 'Bryant M.',
+    role: 'Class of \'28 • CS',
+    bio: 'Video editor. Expert in voice AI processing, machine learning, and building scalable systems for personalized vocal coaching.',
     github: '#',
     initial: 'B'
   }
@@ -48,7 +48,7 @@ const Team: React.FC = () => {
             Meet the Artists
           </h2>
           <p className="text-xl text-pink-200 mb-8 max-w-2xl mx-auto">
-            The creative minds behind AI-Capella's innovative music technology
+            The passionate team behind AI-Capella's live voice AI technology for confident a-cappella singers
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

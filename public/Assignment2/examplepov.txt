@@ -1,0 +1,108 @@
+ORIGINAL POV: 
+We met : 
+Music lecturer at Stanford whose whole life revolves around traditional (non-tech assisted) music. 
+We were surprised to realize : 
+Willing to work with AI tools around some workflows. 
+We wonder if it means : 
+There is less stigma about the use of AI in creative fields, even more traditional ones than we would have expected 
+It would be game-changing to : 
+Dig deeper and figure out ways to make traditional music more accessible with AI. 
+– We assumed too much (whole life revolves around music). Made an unsupported claim without explicit evidence. 
+– Not enough detail in surprise section, not very surprising because everyone is willing to use AI tools in some workflows 
+POV 1: Ryan K. 
+We met a Stanford alumni budget analyst for Santa Clara county. Ryan is an intermediate jazz pianist and has taken beginner vocal lessons. He has also performed for Flying Treehouse, the volunteer Stanford children’s theater group, providing relief, support, and comfort for his local community. 
+We were surprised to notice that bringing joy and beauty through his music to the children of the bay area and Santa Clara community members is one of his core passions. - “Music really lifts people spirits” 
+- “[music], it’s a great stress reliever” 
+- “Playing by yourself, for other people, and with other people. Life is about catching the beautiful moments.” 
+We wonder if this means Ryan would extend the reach of his music to a larger audience if he was provided with the right support and resources. 
+It would be game changing to give Ryan, and likeminded people, the ability to share their music and values on a national or global level. 
+Key quotes: 
+1. “I would ask my vocal teacher over and over if I could sing, and they would always avoid answering. That told me that, ‘no,’ I could not sing.” 
+2. “There’s a policy against AI use at the county. But I use ChatGPT all the time for learning new skills.”
+3. “Piano music is so pure and beautiful. Playing by yourself, for other people, with other people, music is such a great stress reliever.” 
+Key Insights: 
+1. Keypoint 1: Ryan doesn’t sing today because his voice instructor told him he could not sing. 
+- Insight: we wonder if this means Ryan would still sing today if he received more positive feedback. We wonder if this means Ryan just needed more of a confidence booster to encourage him to work on vocal development. 
+2. Keypoint 2: Ryan uses ChatGPT all the time and avoids going down the youtube tutorial rabbit hole whenever he needs to learn something. 
+- Insight: we wonder if this means Ryan and other professionals won’t pursue art unless it is made easier and more accessible. Currently, learning music is a slow process that is unappealing to and unfeasible for workers. 
+3. Keypoint 3: Ryan believes that life is about catching the beautiful moments, and sharing those moments with other people. 
+- Insight: since none of our questions directly ask about what makes life meaningful, just the topic of music must really excite Ryan and allow him to open up more. This might demonstrate the power of music to take people’s minds off of life's problems for a moment and really allow them to find relief and comfort in music. 
+HMWs: 
+1. How might we reward people for singing? 
+2. How might we make singing more convenient for people? 
+3. How might we improve the quality of life for singers? 
+4. How might we improve the physical health of vocalists? 
+5. How might we improve the mental health of vocalists? 
+6. How might we foster a more tightly knit music community? 
+7. How might we expand the outreach of music/vocalist influencers? 
+8. How might we lower the steep learning curve of becoming a singer? 9. How might we encourage people to try something new? 
+10. How might we encourage people to try out different styles of music? 
+11. How might we communicate that it is ok to sing off-pitch? 
+12. How might we capture life’s most beautiful moments through singing? 13. How might we make practicing music fun? 
+14. How might we reduce the cost barrier of instruction? 
+15. How might we make singing less intimidating? 
+16. How might we reduce the time it takes to learn how to sing? 
+17. How might we improve the quality of vocal instruction? 
+18. How might we use an AI to cultivate a music community?
+19. How might we augment the stress relieving capabilities of music? 
+20. How might we encourage singers to perform with more confidence and passion? 21. How might we reduce the friction for beginner vocalists to get into singing? 
+Top Three HMWs: 
+1. How might we expand the outreach of the perspectives and thoughts of passionate music/vocalist influencers: 
+- motivation : Ryan finds relief, beauty, and comfort in music. He believes that others who might be struggling can also find value in music with some guidance. 2. How might we capture life’s most beautiful moments through singing? - Motivation : People bond over music and experience key life moments revolving around music. Hard to keep track of and express how deeply a musical 
+experience impacted you. 
+3. How might we encourage singers to perform with more confidence and passion? - Motivation : There are so many events (work, hobbies, accidents) to deal with everyday. If a person is given no confidence or motivation from others to pursue music, there is little hope that they will ever experience the benefits of passionate music performance. 
+Solutions for first HMW: 
+1. Project their key messages and quotes and billboards. 
+2. Organize public karaoke events using algorithms to select times that will allow maximum attendance. 
+3. Expand the music audience by leading a “music for everyone” initiative. 4. Create an encouraging AI music tool that gives proactive and affirmative feedback. 5. Approach people in public and give them flowers, confetti, and compliments if they sing a well-known easy song like happy birthday. 
+6. Create a journaling/blogging app for musicians to optionally make public their musical thoughts and perspective. 
+7. Set up spa-like environments on college campuses or in work places where people can go to let some steam off through playing or listening to music. 
+8. Normalize creating music groups like the Stanford Marching Band which accepts all levels of musicians and has no professional standards. 
+9. Hold group music therapy sessions led by passionate members of the music community. 10. Make a non-profit, volunteer network of music teachers, tutors and professionals who can teach in-person/online. 
+Solutions for second HMW: 
+1. Record emotions and feelings right after doing something with music. 2. Perform a task that focuses your attention the moment after you have a wonderful singing experience. 
+3. Tell someone about your beautiful musical moment. 
+4. Collect pictures or other artifacts from the valuable snippet of musical beauty.
+5. Talk to an AI model that can help you articulate your thoughts or feelings. 6. Tell a music professional about your experience for affirmation or validation. 7. Take 30 seconds to breathe and process the beautiful moment. 
+8. Look through a list of adjectives and emotions immediately after a wonderful music event to pinpoint exactly how you are feeling. 
+9. Perform a physical activity after the fact to reinforce memory of the beautiful art+life moment. 
+10. Give or receive a compliment or reward to further enrich the experience. 
+Solution to the third HMW: 
+1. Gamify vocal practice by creating an online practice leaderboard or give NFT-like rewards through an app. 
+2. Give immediate confidence boosting feedback. 
+3. Create an environment where there are lots of singers all around the same skill level. 4. Select songs for a person based on their interests or motivations. 
+5. Reach out to people who might not take the initiative to pursue singing on their own. 6. Teach grounding techniques to take negative feedback proactively. 
+7. Encourage singers to think of an emotional time in their life before singing to add more personal artistry to their music. 
+8. Pay singers to sing with confidence and passion. 
+9. Pay an audience to give positive and constructive feedback based on a singer’s performance. 
+10. Introduce physical exercise into a singer’s practice schedule to increase natural dopamine and lower stress levels while singing. 
+Three top solutions: 
+1. Gamify vocal practice by creating an online practice leaderboard or give badge- or point-based rewards through an app. 
+2. Record emotions, feelings, song-specifics right after doing something with music. 3. Create an encouraging AI music tool that gives proactive and affirmative feedback. 
+Critical Assumptions for top #1 solution (gamify idea): 
+a. Main one: Introducing a low stakes competitive factor will get people to participate in musical practice and sing more. 
+- A lot of beginner singers need the right motivation to sing. Since most people are naturally competitive, they might sing for points or to place higher on a 
+leaderboard. 
+- The leaderboard or point based system is not fully based on the quality of singing rather it's just based on doing more performances. This might take off the pressure to do well and just give people a reason to sing more. 
+b. Gamifying music will not completely remove the artistic and expressive factors associated with musical practice.
+- Many people, like Ryan, want a tool that improves the quality of their voice. They need critical feedback that a gamified singing app might not be able to provide. Do the pros of an encourages low-stakes singing app outway the cons of sacrificing instructional and critique quality/features. 
+Participants: stanford students. One sophomore one senior. One is interested in acting the other is a physics major but also does Stanford Wushu. They were approached and asked if they wanted to participate in a CS147 app prototype experience. They are the target audience because they are both non vocalists, who enjoy singing but need a little more encouragement. 
+Prototype field work: 
+i. Made a landing page, song selection, motivational encouragement quotes, leaderboard, and point based reward system pages using paper and marker. Users could select makeshift paper buttons to navigate to each page. The first selected a song out of “Happy Birthday” “Twinkle Twinkle” or “Amazing Grace”. They then sang a few lines from the song. I then either showed them their place on the leaderboard or gave them a certain amount of points (either 50 or 100). They then got to sing again and see their points increase or place on the leaderboard go up. 
+Direct quotes: Phillip- 
+“Bro I don’t care about points” 
+“I wish it would give me some sort of critique, I want to get better and do that nicely, y'know, get a beautiful voice. I think the point system was better than the leaderboard, but for me the thing is it tells me like ohh this was off pitch or you know. Hitting notes at certain points, etc.” 
+Marlon - 
+“I am a pretty competitive person, so I really like having a leaderboard to tell me how I am compared to other people. Seeing some critiques would be nice so that I know how exactly I can improve, but the leaderboard itself is a great addition. 
+– how this tests the assumption: The leaderboard system really got participants engaged, even though it was a predetermined paper based system, participants were super excited to select a second song and sing again to see their place on the leaderboard rise. These non vocalists were singing with full passion together even after the prototype experience testing was over (even though they would never be caught singing without the test). 
+What worked: Non vocalists were singing multiple songs in front of other people with confidence. My assumption that the leaderboard would be overwhelmingly popular was not as valid because one participant really wanted more quality instruction rather than a place on a leaderboard. However, the other person really liked the leaderboard and may not have been as excited to sing without the leaderboard or point based systems.
+- Insights: People were really thoughtful about song choice (even with only three options). This demonstrated to me that people I never would have thought would be into singing are actually more interested in the art than I thought. They really just needed some sort of motivation to get them out of their shell. 
+- People kept trying to go back to sing another song to climb the leaderboards, but I only had two leader board pages. Singing then must be more fun and even addicting to many more people than I ever could have imagined. 
+- What worked continued: singers liked the easier songs and refined song selection. Although this wasn't the intention, it was nice that participants got overwhelmed when selecting a song. Since the songs were more well known, participants sang them with full confidence. 
+Ethical Implications: 
+- This solution is designed for vocalists and non-vocalists alike who want more reason and greater opportunity to sing. It is more for the younger generations who are more familiar with gamified learning systems (like duolingo). It is for more anxious people/vocalists who prefer a low pressure singing environment and atmosphere. The solution implicitly leaves out professional singers who purely need practical instruction and critique (although there is still room for them to have fun and participate). 
+- The solution might also leave out people who avoid competition (the leaderboard based system). However, they could then mainly use the point or badge based system and not worry about a leaderboard. It would also leave out people who are mute or deaf. 
+- Overall, the scoring system and leaderboard is fair and transparent (users are awarded points based on participation not aptitude). It’s rather inclusive, however it does not accommodate those who are mute or deaf. 
+Moving forward, 
+- we will probably include the leaderboard system, but it will be optional participation. Points and badges will be the main system kept at the forefront of the design. - Since people liked the simple song selection, we might include a recommender system algorithm where a user can input a little about their interests and receive a refined song selection. 
+- We’ll definitely have to go back and make more related prototypes (trying out different reward based systems, adding feedback, including more song choices).
