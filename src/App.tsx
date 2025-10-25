@@ -5,13 +5,14 @@ import AssignmentsPage from './pages/Assignments'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/cs147-website-ai-capella/">
       <div className="min-h-screen bg-black text-white">
         <Navigation />
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/assignments" element={<AssignmentsPage />} />
+            <Route path="*" element={<Home />} />
           </Routes>
         </main>
         <footer className="bg-gradient-to-r from-purple-900 to-pink-900 text-white py-8">
