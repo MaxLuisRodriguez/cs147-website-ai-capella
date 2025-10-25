@@ -67,19 +67,19 @@ const ProjectJourney: React.FC = () => {
               to help people like him share their musical passion with the world.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a
-                href="/Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
-              >
-                View Assignment Slides →
-              </a>
-              <a
-                href="/Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides.pdf"
-                download
-                className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
-              >
+                <a
+                  href="/Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides-compressed.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
+                >
+                  View Assignment Slides →
+                </a>
+                <a
+                  href="/Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides-compressed.pdf"
+                  download
+                  className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
+                >
                 <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
                 </svg>
