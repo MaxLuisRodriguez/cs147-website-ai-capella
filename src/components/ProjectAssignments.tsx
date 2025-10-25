@@ -15,7 +15,7 @@ const ProjectAssignments: React.FC = () => {
           </p>
         </div>
 
-        {/* Assignment 1 Special Content */}
+        {/* Assignment 1 Special Contenth */}
         <div className="mb-12 bg-gradient-to-r from-purple-900/30 to-pink-900/30 rounded-2xl p-8 border border-pink-500/20">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
             <div>
