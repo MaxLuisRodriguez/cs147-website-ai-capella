@@ -26,12 +26,6 @@ const Hero: React.FC = () => {
           >
             Discover Our Vision
           </a>
-          <a
-            href="#team"
-            className="bg-transparent text-pink-300 px-8 py-4 rounded-full font-semibold hover:bg-pink-500/20 transition-all duration-300 border-2 border-pink-400 hover:border-pink-300"
-          >
-            Meet the Artists
-          </a>
         </div>
       </div>
     </section>

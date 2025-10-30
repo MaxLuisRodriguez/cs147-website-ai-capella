@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "build:stanford": "tsc && vite build --mode stanford",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist",
+    "deploy:stanford": "npm run build:stanford"
   },
   "dependencies": {
     "react": "^18.2.0",

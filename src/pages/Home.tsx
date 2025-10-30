@@ -1,7 +1,6 @@
 import React from 'react'
 import Hero from '../components/Hero'
 import Introduction from '../components/Introduction'
-import Team from '../components/Team'
 import Assignments from '../components/Assignments'
 
 const Home: React.FC = () => {
@@ -9,7 +8,6 @@ const Home: React.FC = () => {
     <>
       <Hero />
       <Introduction />
-      <Team />
       <Assignments />
     </>
   )

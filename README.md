@@ -46,7 +46,7 @@ npm run preview
 
 ## 🌐 Deployment
 
-### Automatic Deployment (Recommended)
+### GitHub Pages Deployment
 
 This site is configured to automatically deploy to GitHub Pages when you push to the `main` branch.
 
@@ -55,12 +55,30 @@ This site is configured to automatically deploy to GitHub Pages when you push to
 3. Push to the `main` branch
 4. Your site will be live at: `https://YOUR_USERNAME.github.io/cs147-website-ai-capella/`
 
-### Manual Deployment
-
-Deploy manually using:
+**Manual GitHub Pages deployment:**
 ```bash
 npm run deploy
 ```
+
+### Stanford Web Server Deployment
+
+To deploy to Stanford's web server:
+
+1. **Build for Stanford:**
+   ```bash
+   npm run build:stanford
+   ```
+   Or use the deployment script (Windows):
+   ```powershell
+   .\deploy-stanford.ps1
+   ```
+
+2. **Upload files** to Stanford using SCP, SFTP, or SSH. See `DEPLOY_STANFORD.md` for detailed instructions.
+
+3. Your site will be live at:
+   `https://web.stanford.edu/class/cs147/projects/DesigningVoiceAIforEverydayValue/AICapella/`
+
+**Note:** The build process automatically configures the correct base paths for each deployment target.
 
 ## 📝 Customization
 

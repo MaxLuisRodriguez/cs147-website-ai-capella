@@ -24,7 +24,7 @@ const ProjectJourney: React.FC = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="/Assignment1/Assignment 1 slides.pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment1/Assignment 1 slides.pdf`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
@@ -32,7 +32,7 @@ const ProjectJourney: React.FC = () => {
                   View Assignment Slides →
                 </a>
                 <a
-                  href="/Assignment1/Assignment 1 slides.pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment1/Assignment 1 slides.pdf`}
                   download
                   className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
                 >
@@ -45,7 +45,7 @@ const ProjectJourney: React.FC = () => {
             </div>
             <div className="text-center">
               <img
-                src="/Assignment1/empathy%20map%201.png"
+                src={`${import.meta.env.BASE_URL}Assignment1/empathy map 1.png`}
                 alt="Empathy Map for Music Creators"
                 className="w-full max-w-md mx-auto rounded-xl shadow-lg border border-pink-400/30"
                 onError={(e) => {
@@ -68,15 +68,15 @@ const ProjectJourney: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="/Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides-compressed.pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides-compressed.pdf`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
                 >
                   View Assignment Slides →
                 </a>
-                <a
-                  href="/Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides-compressed.pdf"
+              <a
+                href={`${import.meta.env.BASE_URL}Assignment2/CS147 Assignment 02 - POVs & Experience Prototypes slides-compressed.pdf`}
                   download
                   className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
                 >
@@ -144,7 +144,7 @@ const ProjectJourney: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="text-center">
               <img
-                src="/Assignment2/experience_prototype_1.png"
+                src={`${import.meta.env.BASE_URL}Assignment2/experience_prototype_1.png`}
                 alt="Experience Prototype Testing"
                 className="w-full max-w-md mx-auto rounded-xl shadow-lg border border-pink-400/30"
                 onError={(e) => {
@@ -156,7 +156,7 @@ const ProjectJourney: React.FC = () => {
             </div>
             <div className="text-center">
               <img
-                src="/Assignment2/brainstorm_session.png"
+                src={`${import.meta.env.BASE_URL}Assignment2/brainstorm_session.png`}
                 alt="Brainstorm Session"
                 className="w-full max-w-md mx-auto rounded-xl shadow-lg border border-pink-400/30"
                 onError={(e) => {
@@ -179,7 +179,7 @@ const ProjectJourney: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="/Assignment4/AI-Capella A4 CS147 (with new link).pdf"
+                href={`${import.meta.env.BASE_URL}Assignment4/AI-Capella A4 CS147 (with new link).pdf`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
@@ -187,7 +187,7 @@ const ProjectJourney: React.FC = () => {
                 View Assignment Slides →
               </a>
               <a
-                href="/Assignment4/AI-Capella A4 CS147 (with new link).pdf"
+                href={`${import.meta.env.BASE_URL}Assignment4/AI-Capella A4 CS147 (with new link).pdf`}
                 download
                 className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
               >
@@ -260,8 +260,8 @@ const ProjectJourney: React.FC = () => {
             <h5 className="text-pink-200 font-semibold mb-4 text-center">Download Options</h5>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://www.youtube.com/watch?v=t859vICb7ls&feature=youtu.be"
-                download
+                href={`${import.meta.env.BASE_URL}Assignment4/Ai-capella-revision-compressed.mp4`}
+                download="AI-Capella-Concept.mp4"
                 className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
               >
                 <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
@@ -270,7 +270,7 @@ const ProjectJourney: React.FC = () => {
                 Download Video
               </a>
               <a
-                href="/Assignment4/AI-Capella A4 CS147 (with new link).pdf"
+                href={`${import.meta.env.BASE_URL}Assignment4/AI-Capella A4 CS147 (with new link).pdf`}
                 download
                 className="inline-flex items-center justify-center bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
               >
@@ -293,7 +293,7 @@ const ProjectJourney: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="/Assignment5/AI-Capella A5 CS147_slides.pdf"
+                href={`${import.meta.env.BASE_URL}Assignment5/AI-Capella A5 CS147_slides.pdf`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-pink-500/25 transform hover:scale-105"
@@ -301,7 +301,7 @@ const ProjectJourney: React.FC = () => {
                 View Assignment Slides →
               </a>
               <a
-                href="/Assignment5/AI-Capella A5 CS147_slides.pdf"
+                href={`${import.meta.env.BASE_URL}Assignment5/AI-Capella A5 CS147_slides.pdf`}
                 download
                 className="inline-flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-600 text-white px-6 py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25 transform hover:scale-105"
               >
@@ -345,7 +345,7 @@ const ProjectJourney: React.FC = () => {
                 <h5 className="text-pink-200 font-semibold mb-3">Testing Script</h5>
                 <p className="text-pink-100 text-sm mb-4">Comprehensive user testing protocol</p>
                 <a
-                  href="/Assignment5/A5 Script for Testing (1).pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment5/A5 Script for Testing (1).pdf`}
                   download
                   className="inline-flex items-center text-pink-300 hover:text-pink-400 transition-colors text-sm"
                 >
@@ -360,7 +360,7 @@ const ProjectJourney: React.FC = () => {
                 <h5 className="text-pink-200 font-semibold mb-3">Usability Goals</h5>
                 <p className="text-pink-100 text-sm mb-4">Measurable usability objectives</p>
                 <a
-                  href="/Assignment5/A5 usability goals and measurements (1) (1).pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment5/A5 usability goals and measurements (1) (1).pdf`}
                   download
                   className="inline-flex items-center text-pink-300 hover:text-pink-400 transition-colors text-sm"
                 >
@@ -375,7 +375,7 @@ const ProjectJourney: React.FC = () => {
                 <h5 className="text-pink-200 font-semibold mb-3">Sketching Report</h5>
                 <p className="text-pink-100 text-sm mb-4">Design ideation and sketching process</p>
                 <a
-                  href="/Assignment5/Sketching Report.pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment5/Sketching Report.pdf`}
                   download
                   className="inline-flex items-center text-pink-300 hover:text-pink-400 transition-colors text-sm"
                 >
@@ -390,7 +390,7 @@ const ProjectJourney: React.FC = () => {
                 <h5 className="text-pink-200 font-semibold mb-3">Prototype Screens</h5>
                 <p className="text-pink-100 text-sm mb-4">Low-fidelity prototype designs</p>
                 <a
-                  href="/Assignment5/low_fi_prototype_screens.pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment5/low_fi_prototype_screens.pdf`}
                   download
                   className="inline-flex items-center text-pink-300 hover:text-pink-400 transition-colors text-sm"
                 >
@@ -405,7 +405,7 @@ const ProjectJourney: React.FC = () => {
                 <h5 className="text-pink-200 font-semibold mb-3">Assignment Slides</h5>
                 <p className="text-pink-100 text-sm mb-4">Complete presentation deck</p>
                 <a
-                  href="/Assignment5/AI-Capella A5 CS147_slides.pdf"
+                  href={`${import.meta.env.BASE_URL}Assignment5/AI-Capella A5 CS147_slides.pdf`}
                   download
                   className="inline-flex items-center text-pink-300 hover:text-pink-400 transition-colors text-sm"
                 >

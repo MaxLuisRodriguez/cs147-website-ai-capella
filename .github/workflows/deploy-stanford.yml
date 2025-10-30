@@ -1,0 +1,56 @@
+name: Deploy to Stanford
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      # Only trigger on code changes, not build artifacts
+      - 'src/**'
+      - 'public/**'
+      - '*.ts'
+      - '*.tsx'
+      - '*.js'
+      - '*.json'
+      - '*.config.*'
+      - 'index.html'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Build for Stanford
+        run: npm run build:stanford
+        
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.STANFORD_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H myth.stanford.edu >> ~/.ssh/known_hosts
+          
+      - name: Deploy to Stanford
+        run: |
+          scp -r dist/* ${{ secrets.STANFORD_SUNET_ID }}@myth.stanford.edu:/afs/ir/class/cs147/WWW/projects/DesigningVoiceAIforEverydayValue/AICapella/
+          
+      - name: Set Permissions (SSH)
+        run: |
+          ssh ${{ secrets.STANFORD_SUNET_ID }}@myth.stanford.edu "cd /afs/ir/class/cs147/WWW/projects/DesigningVoiceAIforEverydayValue/AICapella/ && chmod -R 755 . && chmod 644 *.html *.css *.js *.json *.svg 2>/dev/null || true"
+
+

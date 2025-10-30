@@ -4,8 +4,13 @@ import Home from './pages/Home'
 import AssignmentsPage from './pages/Assignments'
 
 function App() {
+  // Use Stanford path when in stanford mode, otherwise use GitHub Pages path
+  const basename = import.meta.env.MODE === 'stanford'
+    ? '/class/cs147/projects/DesigningVoiceAIforEverydayValue/AICapella/'
+    : '/cs147-website-ai-capella/'
+  
   return (
-    <Router basename="/cs147-website-ai-capella/">
+    <Router basename={basename}>
       <div className="min-h-screen bg-black text-white">
         <Navigation />
         <main>
@@ -26,5 +31,3 @@ function App() {
 }
 
 export default App
-
-
